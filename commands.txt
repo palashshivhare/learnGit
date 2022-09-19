@@ -2,3 +2,4 @@
 git add . // staging
 git commit -m //commit code in git//palash
 ..//tanujsddgwgdgrg
+git rebase palash
