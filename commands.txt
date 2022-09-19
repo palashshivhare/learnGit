@@ -1,2 +1,4 @@
 1. git init // we use for initialized git
 git add . // staging
+git commit -m //commit code in git//palash
+..//tanuj
