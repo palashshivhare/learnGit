@@ -1,1 +1,2 @@
 1. git init // we use for initialized git
+git add . // staging
